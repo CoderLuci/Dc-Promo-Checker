@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Probabilities/Discord-Promo-Checker">
+  <a href="https://github.com/CoderLuci/Dc-Promo-Checker">
     <img src="https://static.vecteezy.com/system/resources/previews/023/741/147/original/discord-logo-icon-social-media-icon-free-png.png" alt="Logo" width="150" height="150">
   </a>
 
@@ -29,4 +29,4 @@
 
 Telegram - [@gaveaway](https://t.me/gaveaway)
 <br />
-Discord - [@shareholders](https://discord.com/users/192475130134265856)
+Discord - [@shareholders](https://discord.com/users/1217499680447926305)
